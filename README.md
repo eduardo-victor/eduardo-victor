@@ -2,6 +2,7 @@
 
 - Curso Técnico em Desenvolvimento de Sistemas - SENAI.
 - Entusiasta de Segurança da Informação e Programação.
+- Aprendiz em Desenvolvimento de Sistemas na Bosch Campinas.
 
  Em processo de aprendizagem :D
 
