@@ -1,10 +1,8 @@
-### Olá, eu sou o Víctor Eduardo! 👋
+### Hi, I'm Víctor! 👋
 
-- Curso Técnico em Desenvolvimento de Sistemas - SENAI.
-- Entusiasta de Segurança da Informação e Programação.
-- Aprendiz em Desenvolvimento de Sistemas na Bosch Campinas.
-
- Em processo de aprendizagem :D
+- Currently studying Systems Development Technician at Senai.
+- Information Security and Web Development enthusiast.
+- Working as an Apprentice in Systems Development at Bosch Campinas.
 
 <div align="center">
   <a href="https://github.com/eduardo-victor">
@@ -12,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-victor&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-### Linguagens mais usadas no momento: 
+### Most used programming languages: 
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
