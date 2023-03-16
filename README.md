@@ -2,7 +2,21 @@
 
 - Currently studying Systems Development Technician at Senai.
 - Information Security and Web Development enthusiast.
-- Working as an Apprentice in Systems Development at Bosch Campinas.
+- Software Engineering
+
+ ```javascript
+const me = {
+  name: 'Víctor Eduardo',
+  language: 'Typescript',
+  tech: {
+    frontend: ['React', 'Tailwindcss', 'Typescript'],
+  },
+  language: {
+    portuguese: true,
+    english: true (in development),
+  }
+}
+```
 
 <div align="center">
   <a href="https://github.com/eduardo-victor">
