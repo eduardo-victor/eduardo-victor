@@ -7,7 +7,7 @@
  ```javascript
 const me = {
   name: 'Víctor Eduardo',
-  language: 'Typescript',
+  programming language: 'Typescript',
   tech: {
     frontend: ['React', 'Tailwindcss', 'Typescript'],
   },
