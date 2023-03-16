@@ -13,7 +13,7 @@ const me = {
   },
   language: {
     portuguese: true,
-    english: true (in development),
+    english: in development,
   }
 }
 ```
