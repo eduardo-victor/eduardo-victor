@@ -1,6 +1,6 @@
 ### Hi, I'm Víctor! 👋
 
-- Currently studying Systems Development Technician at Senai.
+- Systems Development Technician.
 - Information Security and Web Development enthusiast.
 - Software Engineering
 
