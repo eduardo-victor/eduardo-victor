@@ -1,15 +1,15 @@
 ### Hi, I'm Víctor! 👋
 
-- Systems Development Technician.
-- Information Security and Web Development enthusiast.
-- Software Engineering
+- CyberSec and WebDev
+- Systems Analysis and Development
 
  ```javascript
 const me = {
   name: 'Víctor Eduardo',
   programming language: 'Typescript',
   tech: {
-    frontend: ['React', 'Tailwindcss', 'Typescript'],
+    frontend: true,
+    backend: in development,
   },
   language: {
     portuguese: true,
